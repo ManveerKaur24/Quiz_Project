@@ -1,0 +1,223 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "form7",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form7",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form6",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form6",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form3",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form3",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form2",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form2",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form1",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form1",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form5",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form5",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "timer",
+            "request": "launch",
+            "mainClass": "QUIZ_project.timer",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form9",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form9",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form4",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form4",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form8",
+            "request": "launch",
+            "mainClass": "QUIZ_project.form8",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "CrackQuiz",
+            "request": "launch",
+            "mainClass": "QUIZ_project.CrackQuiz",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form3",
+            "request": "launch",
+            "mainClass": "form3",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form2",
+            "request": "launch",
+            "mainClass": "form2",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form1",
+            "request": "launch",
+            "mainClass": "form1",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "form5",
+            "request": "launch",
+            "mainClass": "form5",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form6",
+            "request": "launch",
+            "mainClass": "form6",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form7",
+            "request": "launch",
+            "mainClass": "form7",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "Newproject",
+            "request": "launch",
+            "mainClass": "newproject.Newproject",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "Timer",
+            "request": "launch",
+            "mainClass": "newproject.Timer",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form1",
+            "request": "launch",
+            "mainClass": "newproject.form1",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form2",
+            "request": "launch",
+            "mainClass": "newproject.form2",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form3",
+            "request": "launch",
+            "mainClass": "newproject.form3",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form4",
+            "request": "launch",
+            "mainClass": "newproject.form4",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form5(1)",
+            "request": "launch",
+            "mainClass": "newproject.form5",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form6(1)",
+            "request": "launch",
+            "mainClass": "newproject.form6",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form7(1)",
+            "request": "launch",
+            "mainClass": "newproject.form7",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form8",
+            "request": "launch",
+            "mainClass": "newproject.form8",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "form9",
+            "request": "launch",
+            "mainClass": "newproject.form9",
+            "projectName": "QUIZ_project_f6db0028"
+        },
+        {
+            "type": "java",
+            "name": "formeg",
+            "request": "launch",
+            "mainClass": "newproject.formeg",
+            "projectName": "QUIZ_project_f6db0028"
+        }
+    ]
+}
